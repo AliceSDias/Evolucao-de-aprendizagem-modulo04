@@ -52,7 +52,7 @@ Diversidade e Inclusão em Tecnologia
 
 Marca Pessoal e Plano de Carreira
 
-O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+# O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 Em relação aos assuntos técnicos da área, não tenho muito conhecimento, pois este é o meu primeiro curso voltado para o backend. Tudo isso é muito novo e desafiador para mim, com grandes aprendizados diários. Já no módulo de carreira, tenho um conhecimento mais aprofundado, afinal, sou uma pessoa bem curiosa:
 
@@ -72,7 +72,28 @@ Diversidade e Inclusão em Tecnologia: Esse é um assunto de grande importância
 
 Marca Pessoal e Plano de Carreira: Nossa marca pessoal é a impressão que deixamos nas outras pessoas, muitas vezes sem precisar dizer uma palavra. Ela se manifesta em nossas atitudes, comportamentos e até mesmo na forma como nos vestimos. Um plano de carreira é uma ferramenta única para que cada um possa, por meio do autoconhecimento, definir onde deseja chegar e traçar um caminho claro para alcançá-lo.
 
+# O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+Sobre o conteúdo técnico quero poder absorver o máximo de informações possíveis para a construção de uma base solida na produção dos meus futuros códigos, afinal a base é a construção primordial para um bom aprendizado e uma boa performasse profissional e colocar em pratica o mais rápido possível no mercado de trabalho.  
+
+GitHub: Gostaria de me aprofundar mais nessa maravilhosa plataforma, para construir um bom cartão de visitas para os meus futuros trabalhos
+
+Comunicação: Como aperfeiçoar cada vez a minha comunicação  
+
+Pesquisa e Leitura de Documentações: Como posso pesquisar e fazer a leitura da documentação de uma forma mais rápida e eficiente 
+
+Autoconhecimento e Inteligência Emocional: como o meu autoconhecimento e minha inteligência emocional irá me ajudar no meu dia a dia de programação 
+
+Tendências em Tecnologia: Quais são as mais novas tendencias na área de tecnologia e como usa-las no meu dia a dia como programadora
+
+Metodologias Ágeis: Como usar no meu dia- a- dia como programadora
+
+Diversidade e Inclusão em Tecnologia: Como ser mais inclusiva no meu dia a dia sem o meu olhar de cuidar 
+
+Marca Pessoal e Plano de Carreira: como me beneficiar através da minha marca pessoal, e como cada vez deixar ela melhor 
+
 # Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
 Testes Automatizados: o que é um teste automatizado, como realizar um teste automatizado, exportar e importar um módulo, criar o meu primeiro teste automatizado.
 
 Primeiro Servidor: como fazer o meu primeiro servidor com Fastify, como fazer o servidor Fastify com TypeScript e o meu primeiro servidor Express.
@@ -104,3 +125,20 @@ Conexão Node.js com PostgreSQL: como configurar um banco de dados, como preveni
 Autenticação e Criptografia: como criptografar, criptografia simétrica e os princípios da criptografia.
 
 Introdução com API de Terceiros: como fazer uma comunicação entre APIs, configurar a API principal, configurar a URL base para cada API.
+
+GitHub: o verdadeiro uso do Git no mercado de trabalho e suas diversas funcionalidades.
+
+Comunicação: como a minha comunicação irá me ajudar a me colocar no mercado de trabalho, como tornar a minha comunicação mais atraente.
+
+Pesquisa e Leitura de Documentações: a importância de uma boa pesquisa e uma boa leitura das documentações para evitar erros e facilitar o nosso trabalho no dia a dia de um programador.
+
+Autoconhecimento e Inteligência Emocional: como usar os meus pontos fortes a meu favor e melhorar nos meus pontos fracos.
+
+Tendências em Tecnologia: o que há de mais moderno no mercado, as novidades e as tendências, e como elas podem nos ajudar.
+
+Metodologias Ágeis: como é a utilização dessas técnicas no dia a dia de um profissional de tecnologia.
+
+Diversidade e Inclusão em Tecnologia: o que as empresas ganham com esses temas e a importância de ter uma equipe diversificada.
+
+Marca Pessoal e Plano de Carreira: como me beneficiar através da minha marca pessoal e como aprimorar cada vez mais essa marca.
+
